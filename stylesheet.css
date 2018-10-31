@@ -18,5 +18,7 @@ a {
 }
 
 @media (max-width: 670px) {
-  background-color: red;
+  body {
+    background-color: red;
+  }
 }
