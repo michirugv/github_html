@@ -11,7 +11,7 @@ a {
 
 
 .test {
-  background-color: green;
+  background-color: yellow;
 }
 
 @media screen and (max-width: 670px) {
