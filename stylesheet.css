@@ -8,10 +8,14 @@ a {
   text-decoration: none;
 }
 
-
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
 
 .test {
-  background-color: yellow;
+  background-color: green;
 }
 
 @media screen and (max-width: 670px) {
